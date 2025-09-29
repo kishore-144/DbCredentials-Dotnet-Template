@@ -1,0 +1,544 @@
+Information: UsersController[0] 2025-09-23 11:52:27 +05:30
+      Login API called...
+
+
+Information: UsersController[0] 2025-09-23 11:52:27 +05:30
+      DTO values => Email: user@example.com, Password: *****
+
+
+Information: UsersController[0] 2025-09-23 11:52:28 +05:30
+      Message:Logged In Successfully: user@example.com
+
+
+Information: UsersController[0] 2025-09-23 16:18:34 +05:30
+      Signup API called...
+
+
+Information: UsersController[0] 2025-09-23 16:18:36 +05:30
+      Message: Created Successfully : user@exampleeee.com
+
+
+Information: UsersController[0] 2025-09-23 16:29:20 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:29:25 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:30:07 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:30:07 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:30:31 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:30:32 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-23 16:30:41 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:30:41 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-23 16:35:25 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:35:30 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:35:50 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:35:50 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:36:28 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:36:28 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-23 16:50:41 +05:30
+      Signup API called...
+
+
+Information: UsersController[0] 2025-09-23 16:50:42 +05:30
+      Message: Created Successfully : abcd@gmail.com
+
+
+Information: UsersController[0] 2025-09-23 16:51:25 +05:30
+      Login API called...
+
+
+Information: UsersController[0] 2025-09-23 16:51:25 +05:30
+      DTO values => Email: abcd@gmail.com, Password: *****
+
+
+Information: UsersController[0] 2025-09-23 16:51:25 +05:30
+      Message:Logged In Successfully: abcd@gmail.com
+
+
+Information: UsersController[0] 2025-09-23 16:52:12 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:52:16 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:52:44 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:52:44 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:53:06 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-23 16:53:06 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-24 10:11:11 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:11:16 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:12:41 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:12:45 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:21:17 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:21:17 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:22:05 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:22:05 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:22:13 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:22:13 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:24:37 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:24:37 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:31:01 +05:30
+      Signup API called...
+
+
+Information: UsersController[0] 2025-09-24 10:31:01 +05:30
+      Message: Created Successfully : loginform123@gmail.com
+
+
+Information: UsersController[0] 2025-09-24 10:31:46 +05:30
+      Login API called...
+
+
+Information: UsersController[0] 2025-09-24 10:31:46 +05:30
+      DTO values => Email: loginform123@gmail.com, Password: *****
+
+
+Information: UsersController[0] 2025-09-24 10:31:46 +05:30
+      Message:Logged In Successfully: loginform123@gmail.com
+
+
+Information: UsersController[0] 2025-09-24 10:33:10 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:33:15 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:35:00 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:35:05 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:36:17 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:36:22 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:38:04 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:38:08 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:39:10 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:39:14 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:41:23 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:41:23 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:41:41 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:41:41 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:42:40 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:42:45 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:42:52 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:42:56 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:44:38 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:44:38 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:44:51 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:44:51 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:45:13 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:45:17 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:45:25 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:45:30 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:47:11 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:47:17 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:47:24 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:47:28 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:53:19 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:53:24 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:53:35 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:53:39 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:54:30 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:54:34 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:54:47 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:54:51 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:54:58 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:55:02 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:56:18 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:56:22 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:56:29 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:56:33 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:57:07 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:57:11 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:57:44 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:57:44 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:57:50 +05:30
+      Otp API called for 
+
+
+Warning: UsersController[0] 2025-09-24 10:57:50 +05:30
+      Message:No such email exists
+
+
+Information: UsersController[0] 2025-09-24 10:58:07 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:58:11 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:58:20 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 10:58:24 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:02:16 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:02:21 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:02:44 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:02:44 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:03:40 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:03:40 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-24 11:03:51 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:03:54 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:04:46 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:04:50 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:05:09 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:05:09 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:05:45 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 11:05:45 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-24 17:18:36 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:18:41 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:19:43 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:19:47 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:20:01 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Warning: UsersController[0] 2025-09-24 17:20:01 +05:30
+      Message: Invalid OTP: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:20:17 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:20:17 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:50:25 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-24 17:50:33 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:15:50 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:15:56 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:16:20 +05:30
+      OTP verification called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:16:20 +05:30
+      Message: OTP verified successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:16:58 +05:30
+      Set password called for: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:16:58 +05:30
+      Message: Password changed successfully
+
+
+Information: UsersController[0] 2025-09-25 12:17:30 +05:30
+      Login API called...
+
+
+Information: UsersController[0] 2025-09-25 12:17:30 +05:30
+      DTO values => Email: 225003069@sastra.ac.in, Password: *****
+
+
+Information: UsersController[0] 2025-09-25 12:17:30 +05:30
+      Message:Logged In Successfully: 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:18:23 +05:30
+      Otp API called for 225003069@sastra.ac.in
+
+
+Information: UsersController[0] 2025-09-25 12:18:27 +05:30
+      Message:OTP Sent Successfully: 225003069@sastra.ac.in
+
+
