@@ -46,19 +46,15 @@ dotnet run
 
 ## Usage
 
-  Access the login and signup pages from your browser
-  
-  Register a new user and login using the credentials
-  
-  Email notifications will be sent using the configured Gmail account
+- Access the login and signup pages from your browser  
+- Register a new user and login using the credentials
+- Email notifications will be sent using the configured Gmail account
 
 ## Customization
 
-  Extend the user model to include more fields
-  
-  Connect to a database of your choice for persistent storage
-  
-  Modify email templates or add additional notifications
+- Extend the user model to include more fields
+- Connect to a database of your choice for persistent storage
+- Modify email templates or add additional notifications
 
 ## License
 
