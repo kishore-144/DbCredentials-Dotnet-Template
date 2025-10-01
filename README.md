@@ -9,6 +9,7 @@ A ready-to-use .NET login and signup template with basic user information storag
 - Email notifications via Gmail SMTP
 - Lightweight and easy to customize
 - Quick setup—just configure your email credentials
+- ACID-compliant transaction processing ensures data integrity and reliability
 
 ## Prerequisites
 
