@@ -2,6 +2,10 @@
 
 A ready-to-use .NET login and signup template with basic user information storage and Gmail SMTP email support. Ideal for small projects, demos, or as a starting point to learn authentication in .NET applications.
 
+![.NET](https://img.shields.io/badge/.NET-Authentication-blue?logo=dotnet&logoColor=white)
+![SMTP](https://img.shields.io/badge/Email-SMTP%20Support-green?logo=gmail&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 ## Features
 
 - User registration and login functionality
